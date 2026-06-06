@@ -39,9 +39,9 @@ I own the loop end-to-end: cohort analysis, positioning, programmatic SEO, lifec
 
 | Company | Role | Major impact |
 |---|---|---|
-| **SureCart** (by @brainstormforce) | Digital Marketing Manager | Diagnosed activation as SureCart's primary growth constraint via cohort analysis (~3.5% of new stores reached first order) and delivered the data-backed intervention roadmap to leadership across onboarding, messaging, and channels |
-| **Clearout.io** | Growth Marketing Manager | Drove **5x traffic growth** and **+35% monthly signups** in 12 months; led GTM for 3 product launches generating 15K+ incremental traffic and 1,000+ Chrome installs |
-| **AllEvents.in** | Senior Marketing Manager | Scaled **1,000+ programmatic SEO landing pages** and ran lifecycle to **2.3M+ subscribers** via CleverTap — the engine behind the site's organic growth |
+| **SureCart** (by @brainstormforce) | Growth Lead | Owned activation strategy end-to-end — cohort-led insight to leadership roadmap covering onboarding, lifecycle, messaging, and channels |
+| **Clearout.io** | Growth Marketing Manager | **5x traffic** and **+35% signups** in 12 months; led GTM for 3 launches generating 15K+ traffic and 1,000+ Chrome installs |
+| **AllEvents.in** | Sr. Marketing Manager | Scaled **1,000+ programmatic SEO pages** and lifecycle to **2.3M+ subscribers** via CleverTap — the engine behind organic growth |
 
 ### Products I've shipped on
 
