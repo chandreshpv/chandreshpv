@@ -43,7 +43,7 @@ I own the loop end-to-end: cohort analysis, positioning, programmatic SEO, lifec
 | **Clearout.io** | Growth Marketing Manager | **5x traffic** and **+35% signups** in 12 months; led GTM for 3 launches generating 15K+ traffic and 1,000+ Chrome installs |
 | **AllEvents.in** | Sr. Marketing Manager | Scaled **1,000+ programmatic SEO pages** and lifecycle to **2.3M+ subscribers** via CleverTap — the engine behind organic growth |
 
-### Products I've shipped on
+### Products I've helped ship
 
 | Product | What it does | Stack |
 |---|---|---|
@@ -51,7 +51,7 @@ I own the loop end-to-end: cohort analysis, positioning, programmatic SEO, lifec
 | [**allmarkdowntools.com**](https://allmarkdowntools.com) | Markdown converters, editors, and table builders | Next.js · TypeScript · Vercel |
 | [**allblackfridaydeals.com**](https://allblackfridaydeals.com) | Curated Black Friday & Cyber Monday deals across categories | Next.js · TypeScript · Vercel |
 
-> *Owned the growth side end-to-end — positioning, keyword architecture, on-page content, internal linking, and lifecycle. Sites rank for thousands of long-tail JSON and Markdown queries, with a content system designed to compound over time.*
+> *Shaped site architecture, owned technical and on-page SEO, drove positioning, and used Claude Code to design and ship website pages end-to-end — with a content system designed to compound over time.*
 
 ### Brand, client & community work
 
