@@ -39,7 +39,7 @@ I own the loop end-to-end: cohort analysis, positioning, programmatic SEO, lifec
 
 | Company | Role | Major impact |
 |---|---|---|
-| **SureCart** (by @brainstormforce) | Growth Lead | Owned activation strategy end-to-end — cohort-led insight to leadership roadmap covering onboarding, lifecycle, messaging, and channels |
+| **SureCart** | Growth Lead | Owned activation strategy end-to-end — cohort-led insight to leadership roadmap covering onboarding, lifecycle, messaging, and channels |
 | **Clearout.io** | Growth Marketing Manager | **5x traffic** and **+35% signups** in 12 months; led GTM for 3 launches generating 15K+ traffic and 1,000+ Chrome installs |
 | **AllEvents.in** | Sr. Marketing Manager | Scaled **1,000+ programmatic SEO pages** and lifecycle to **2.3M+ subscribers** via CleverTap — the engine behind organic growth |
 
@@ -53,12 +53,14 @@ I own the loop end-to-end: cohort analysis, positioning, programmatic SEO, lifec
 
 > *Owned the growth side end-to-end — positioning, keyword architecture, on-page content, internal linking, and lifecycle. Sites rank for thousands of long-tail JSON and Markdown queries, with a content system designed to compound over time.*
 
-### Client / brand work
+### Brand, client & community work
 
-| Client | What I built |
+| Project | What I did |
 |---|---|
 | [**kalyyafarms.com**](https://kalyyafarms.com) | Farm-to-home brand site — positioning, content, and conversion flow |
-| *More to add* | — |
+| [**zenpilot.com**](https://zenpilot.com) | Client Coordinator — designed a ClickUp-based onboarding process praised by clients as *"one of the best onboarding experiences"* |
+| [**SaaS Boss** by Natalie Luneva](https://pod.co/saas-boss) | Ran paid acquisition for SaaS Boss webinars — **~1,000 leads at $0.07 CPL** |
+| [**Coronathon**](https://thehardcopy.co/how-to-mobilise-a-community/) | Volunteer organizer for Paras Chopra's (VWO) COVID-19 community initiative — community engagement and content writing across 42 projects and 3,000+ contributors |
 
 ### How I work
 
