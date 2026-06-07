@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/%40-Brainstorm%20Force-0e1116?style=flat" alt="Currently at Brainstorm Force" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandreshpv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### What I do
