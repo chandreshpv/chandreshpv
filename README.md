@@ -72,20 +72,17 @@ I own the loop end-to-end: cohort analysis, positioning, programmatic SEO, lifec
 ### Tools I reach for
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ga,gtm,notion,figma" alt="Tools" />
-</p>
-
-<p>
-  <a href="https://www.google.com/analytics/"><img src="https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white" /></a>
-  <a href="https://clarity.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft%20Clarity-231F20?style=flat&logo=microsoft&logoColor=white" /></a>
-  <a href="https://ahrefs.com/"><img src="https://img.shields.io/badge/Ahrefs-0066FF?style=flat&logo=ahrefs&logoColor=white" /></a>
-  <a href="https://hubspot.com/"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/FluentCRM-1F2937?style=flat" />
-  <img src="https://img.shields.io/badge/CleverTap-1E88E5?style=flat" />
-  <a href="https://claude.com/"><img src="https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white" /></a>
-  <a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white" /></a>
-  <a href="https://notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
-  <a href="https://figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></a>
+  <a href="https://www.google.com/analytics/"><img src="https://cdn.simpleicons.org/googleanalytics" height="28" alt="Google Analytics" /></a>&nbsp;&nbsp;
+  <a href="https://marketingplatform.google.com/about/tag-manager/"><img src="https://cdn.simpleicons.org/googletagmanager" height="28" alt="Google Tag Manager" /></a>&nbsp;&nbsp;
+  <a href="https://clarity.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft%20Clarity-0078D4?style=for-the-badge" alt="Microsoft Clarity" /></a>&nbsp;&nbsp;
+  <a href="https://ahrefs.com/"><img src="https://cdn.simpleicons.org/ahrefs" height="28" alt="Ahrefs" /></a>&nbsp;&nbsp;
+  <a href="https://hubspot.com/"><img src="https://cdn.simpleicons.org/hubspot" height="28" alt="HubSpot" /></a>&nbsp;&nbsp;
+  <a href="https://fluentcrm.com/"><img src="https://img.shields.io/badge/FluentCRM-1F2937?style=for-the-badge" alt="FluentCRM" /></a>&nbsp;&nbsp;
+  <a href="https://clevertap.com/"><img src="https://cdn.simpleicons.org/clevertap" height="28" alt="CleverTap" /></a>&nbsp;&nbsp;
+  <a href="https://claude.com/"><img src="https://cdn.simpleicons.org/anthropic" height="28" alt="Claude" /></a>&nbsp;&nbsp;
+  <a href="https://chatgpt.com/"><img src="https://cdn.simpleicons.org/openai" height="28" alt="ChatGPT" /></a>&nbsp;&nbsp;
+  <a href="https://notion.so/"><img src="https://cdn.simpleicons.org/notion" height="28" alt="Notion" /></a>&nbsp;&nbsp;
+  <a href="https://figma.com/"><img src="https://cdn.simpleicons.org/figma" height="28" alt="Figma" /></a>
 </p>
 
 ### Currently exploring
