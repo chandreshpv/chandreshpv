@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/chandreshpv">LinkedIn</a> ·
   <a href="https://www.producthunt.com/@chandreshpv">Product Hunt</a> ·
   <a href="mailto:chandresh.pv@gmail.com">Email</a> ·
-  <a href="RESUME_LINK_HERE">Resume</a>
+  <a href="https://drive.google.com/file/d/1f03n5uknvzvlfCCzKvEDD25asQ5quhx1/view?usp=sharing">Resume</a>
 </p>
 
 <p align="center">
